@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Chef McDang",
+        "years_of_experience": 40,
+        "number_of_recipes": 250,
+        "likes": 750000,
+        "bio": "Chef McDang is a renowned Thai chef, television personality, and author. Known for his expertise in Thai cuisine, he has dedicated his career to promoting Thai culinary traditions worldwide."
+    },
+    {
+        "id": 2,
+        "name": "Chef Ian Kittichai",
+        "years_of_experience": 30,
+        "number_of_recipes": 300,
+        "likes": 500000,
+        "bio": "Chef Ian Kittichai is a celebrated Thai chef, restaurateur, and cookbook author. With a passion for blending traditional Thai flavors with modern techniques, he has earned international acclaim."
+    },
+    {
+        "id": 3,
+        "name": "Chef Bo Songvisava",
+        "years_of_experience": 20,
+        "number_of_recipes": 150,
+        "likes": 300000,
+        "bio": "Chef Bo Songvisava is a prominent Thai chef known for her focus on sustainability and organic ingredients. She co-owns the highly acclaimed Bo.lan restaurant in Bangkok."
+    },
+    {
+        "id": 4,
+        "name": "Chef Bee Satongun",
+        "years_of_experience": 25,
+        "number_of_recipes": 200,
+        "likes": 450000,
+        "bio": "Chef Bee Satongun is a Thai chef celebrated for her authentic and innovative Thai dishes. She co-founded the Michelin-starred restaurant Paste in Bangkok."
+    },
+    {
+        "id": 5,
+        "name": "Chef Chumpol Jangprai",
+        "years_of_experience": 35,
+        "number_of_recipes": 220,
+        "likes": 600000,
+        "bio": "Chef Chumpol Jangprai is a well-known Thai chef and culinary ambassador. He is committed to preserving traditional Thai cooking techniques and sharing them with the world."
+    },
+    {
+        "id": 6,
+        "name": "Chef Nooror Somany Steppe",
+        "years_of_experience": 45,
+        "number_of_recipes": 400,
+        "likes": 850000,
+        "bio": "Chef Nooror Somany Steppe is a pioneering Thai chef and founder of the Blue Elephant restaurant and cooking school. She is known for her dedication to Thai culinary heritage and education."
+    }
+]

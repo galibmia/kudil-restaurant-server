@@ -1,0 +1,306 @@
+[
+    {
+        "id": 1,
+        "chef_id": 1,
+        "recipe_name": "Pad Thai",
+        "ingredients": [
+            "rice noodles",
+            "shrimp",
+            "tofu",
+            "bean sprouts",
+            "peanuts",
+            "egg",
+            "tamarind paste",
+            "fish sauce",
+            "garlic",
+            "lime"
+        ],
+        "cooking_method": "Stir-fry the garlic, shrimp, and tofu. Add the noodles and tamarind sauce. Toss in bean sprouts, egg, and peanuts. Serve with lime.",
+        "rating": 4.8
+    },
+    {
+        "id": 2,
+        "chef_id": 1,
+        "recipe_name": "Green Curry",
+        "ingredients": [
+            "chicken",
+            "green curry paste",
+            "coconut milk",
+            "bamboo shoots",
+            "eggplant",
+            "basil leaves",
+            "fish sauce",
+            "palm sugar",
+            "lime leaves"
+        ],
+        "cooking_method": "Simmer green curry paste in coconut milk. Add chicken and cook until tender. Add vegetables and season with fish sauce and palm sugar. Garnish with basil leaves and lime leaves.",
+        "rating": 4.7
+    },
+    {
+        "id": 3,
+        "chef_id": 1,
+        "recipe_name": "Tom Yum Goong",
+        "ingredients": [
+            "shrimp",
+            "lemongrass",
+            "galangal",
+            "kaffir lime leaves",
+            "mushrooms",
+            "chili paste",
+            "fish sauce",
+            "lime juice",
+            "coriander"
+        ],
+        "cooking_method": "Boil lemongrass, galangal, and lime leaves in water. Add shrimp and mushrooms. Season with chili paste, fish sauce, and lime juice.",
+        "rating": 4.6
+    },
+    {
+        "id": 4,
+        "chef_id": 2,
+        "recipe_name": "Massaman Curry",
+        "ingredients": [
+            "beef",
+            "massaman curry paste",
+            "coconut milk",
+            "potatoes",
+            "onions",
+            "peanuts",
+            "cinnamon sticks",
+            "cardamom",
+            "fish sauce",
+            "tamarind paste"
+        ],
+        "cooking_method": "Cook beef with massaman curry paste and coconut milk. Add potatoes and onions. Season with fish sauce and tamarind paste. Add peanuts, cinnamon sticks, and cardamom. Simmer until tender.",
+        "rating": 4.8
+    },
+    {
+        "id": 5,
+        "chef_id": 2,
+        "recipe_name": "Som Tum",
+        "ingredients": [
+            "green papaya",
+            "tomatoes",
+            "green beans",
+            "garlic",
+            "chilies",
+            "peanuts",
+            "fish sauce",
+            "lime juice",
+            "palm sugar",
+            "dried shrimp"
+        ],
+        "cooking_method": "Pound garlic and chilies in a mortar. Add green beans, tomatoes, and dried shrimp. Add shredded green papaya and mix with fish sauce, lime juice, and palm sugar. Garnish with peanuts.",
+        "rating": 4.5
+    },
+    {
+        "id": 6,
+        "chef_id": 2,
+        "recipe_name": "Panang Curry",
+        "ingredients": [
+            "chicken",
+            "panang curry paste",
+            "coconut milk",
+            "peanuts",
+            "kaffir lime leaves",
+            "fish sauce",
+            "palm sugar",
+            "red chili"
+        ],
+        "cooking_method": "Simmer panang curry paste in coconut milk. Add chicken and cook until tender. Season with fish sauce and palm sugar. Garnish with kaffir lime leaves, peanuts, and red chili.",
+        "rating": 4.7
+    },
+    {
+        "id": 7,
+        "chef_id": 3,
+        "recipe_name": "Mango Sticky Rice",
+        "ingredients": [
+            "sticky rice",
+            "mango",
+            "coconut milk",
+            "sugar",
+            "salt",
+            "mung beans"
+        ],
+        "cooking_method": "Cook sticky rice. Mix coconut milk with sugar and salt, then pour over the rice. Serve with sliced mango and garnish with toasted mung beans.",
+        "rating": 4.9
+    },
+    {
+        "id": 8,
+        "chef_id": 3,
+        "recipe_name": "Chicken Satay",
+        "ingredients": [
+            "chicken",
+            "coconut milk",
+            "curry powder",
+            "turmeric",
+            "lemongrass",
+            "peanut sauce"
+        ],
+        "cooking_method": "Marinate chicken in a mixture of coconut milk, curry powder, turmeric, and lemongrass. Grill the chicken on skewers and serve with peanut sauce.",
+        "rating": 4.6
+    },
+    {
+        "id": 9,
+        "chef_id": 3,
+        "recipe_name": "Thai Basil Chicken",
+        "ingredients": [
+            "chicken",
+            "garlic",
+            "chilies",
+            "Thai basil leaves",
+            "fish sauce",
+            "soy sauce",
+            "sugar"
+        ],
+        "cooking_method": "Stir-fry garlic and chilies. Add chicken and cook until done. Add fish sauce, soy sauce, and sugar. Stir in Thai basil leaves and serve.",
+        "rating": 4.8
+    },
+    {
+        "id": 10,
+        "chef_id": 4,
+        "recipe_name": "Larb Gai",
+        "ingredients": [
+            "ground chicken",
+            "shallots",
+            "mint leaves",
+            "fish sauce",
+            "lime juice",
+            "toasted rice powder",
+            "chilies"
+        ],
+        "cooking_method": "Cook ground chicken. Mix with shallots, mint leaves, fish sauce, lime juice, and toasted rice powder. Serve with chilies.",
+        "rating": 4.7
+    },
+    {
+        "id": 11,
+        "chef_id": 4,
+        "recipe_name": "Thai Fish Cakes",
+        "ingredients": [
+            "fish fillets",
+            "red curry paste",
+            "green beans",
+            "lime leaves",
+            "egg",
+            "fish sauce",
+            "sugar"
+        ],
+        "cooking_method": "Blend fish fillets with red curry paste, egg, and fish sauce. Mix in chopped green beans and lime leaves. Shape into cakes and fry until golden brown.",
+        "rating": 4.5
+    },
+    {
+        "id": 12,
+        "chef_id": 4,
+        "recipe_name": "Thai Spring Rolls",
+        "ingredients": [
+            "spring roll wrappers",
+            "vermicelli noodles",
+            "cabbage",
+            "carrot",
+            "mushrooms",
+            "soy sauce",
+            "garlic"
+        ],
+        "cooking_method": "Soak vermicelli noodles and mix with shredded vegetables and soy sauce. Wrap the mixture in spring roll wrappers and fry until crispy.",
+        "rating": 4.6
+    },
+    {
+        "id": 13,
+        "chef_id": 5,
+        "recipe_name": "Thai Red Curry",
+        "ingredients": [
+            "chicken",
+            "red curry paste",
+            "coconut milk",
+            "bamboo shoots",
+            "bell peppers",
+            "basil leaves",
+            "fish sauce",
+            "palm sugar"
+        ],
+        "cooking_method": "Simmer red curry paste in coconut milk. Add chicken and cook until tender. Add vegetables and season with fish sauce and palm sugar. Garnish with basil leaves.",
+        "rating": 4.8
+    },
+    {
+        "id": 14,
+        "chef_id": 5,
+        "recipe_name": "Papaya Salad",
+        "ingredients": [
+            "green papaya",
+            "tomatoes",
+            "green beans",
+            "garlic",
+            "chilies",
+            "peanuts",
+            "fish sauce",
+            "lime juice",
+            "palm sugar"
+        ],
+        "cooking_method": "Pound garlic and chilies in a mortar. Add green beans and tomatoes. Add shredded green papaya and mix with fish sauce, lime juice, and palm sugar. Garnish with peanuts.",
+        "rating": 4.7
+    },
+    {
+        "id": 15,
+        "chef_id": 5,
+        "recipe_name": "Thai Fried Rice",
+        "ingredients": [
+            "rice",
+            "chicken",
+            "egg",
+            "onion",
+            "garlic",
+            "soy sauce",
+            "fish sauce",
+            "green onions"
+        ],
+        "cooking_method": "Stir-fry garlic and onion. Add chicken and cook until done. Add rice and stir-fry with soy sauce and fish sauce. Push to one side and cook egg. Mix everything together and garnish with green onions.",
+        "rating": 4.6
+    },
+    {
+        "id": 16,
+        "chef_id": 6,
+        "recipe_name": "Thai Pumpkin Soup",
+        "ingredients": [
+            "pumpkin",
+            "coconut milk",
+            "red curry paste",
+            "chicken broth",
+            "fish sauce",
+            "lime juice",
+            "cilantro"
+        ],
+        "cooking_method": "Cook pumpkin in chicken broth until tender. Blend until smooth. Add coconut milk and red curry paste. Season with fish sauce and lime juice. Garnish with cilantro.",
+        "rating": 4.8
+    },
+    {
+        "id": 17,
+        "chef_id": 6,
+        "recipe_name": "Thai Iced Tea",
+        "ingredients": [
+            "black tea",
+            "sugar",
+            "condensed milk",
+            "evaporated milk",
+            "water"
+        ],
+        "cooking_method": "Brew black tea and mix with sugar. Let it cool. Pour over ice and add condensed milk and evaporated milk.",
+        "rating": 4.7
+    },
+    {
+        "id": 18,
+        "chef_id": 6,
+        "recipe_name": "Pineapple Fried Rice",
+        "ingredients": [
+            "rice",
+            "pineapple",
+            "shrimp",
+            "egg",
+            "onion",
+            "garlic",
+            "curry powder",
+            "soy sauce",
+            "green onions"
+        ],
+        "cooking_method": "Stir-fry garlic and onion. Add shrimp and cook until done. Add rice and stir-fry with curry powder and soy sauce. Push to one side and cook egg. Mix everything together with pineapple chunks and garnish with green onions.",
+        "rating": 4.8
+    }
+]
